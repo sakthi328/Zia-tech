@@ -1,0 +1,109 @@
+body{
+    background-color:  aliceblue;
+}
+.main-container{
+padding: 10px;
+
+}
+.menu{
+    display: flex;
+    flex-direction:row;
+    justify-content: space-between;
+    margin: 20px;
+    text-align: start;
+    
+}
+.box-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    gap: 3px;
+    flex-wrap: wrap;
+    margin-bottom: 300px;
+    
+}
+.box1{
+    background-color: rgb(255, 255, 255);
+    height: 120px;
+    padding: 20px;
+    border: 2px rgb(243, 238, 238) solid;
+    border-radius: 10px;
+    margin-bottom: 40px;
+}
+.box2{
+    background-color: white;
+    height: 120px;
+    padding: 20px;
+    border: 2px rgb(243, 238, 238) solid;
+    border-radius: 10px;
+}
+.box3{
+    background-color: white;
+    height: 120px;
+    padding: 20px;
+    border: 2px rgb(243, 238, 238) solid;
+    border-radius: 10px;
+}
+.box4{
+    background-color: white;
+    height: 120px;
+    padding: 20px;
+    border: 2px rgb(243, 238, 238) solid;
+    border-radius: 10px;
+}
+.box5{
+    background-color: white;
+    height: 120px;
+    padding: 20px;
+    border: 2px rgb(243, 238, 238) solid;
+    border-radius: 10px;
+}
+.box6{
+    background-color: white;
+    height: 120px;
+    padding: 20px;
+    border: 2px rgb(243, 238, 238) solid;
+    border-radius: 10px;
+}
+.box7{
+    background-color: white;
+    height: 120px;
+    padding: 20px;
+    border: 2px rgb(243, 238, 238) solid;
+    border-radius: 10px;
+}
+.box8{
+    background-color: white;
+    height: 120px;
+    padding: 20px;
+    text-wrap: wrap;
+    border: 2px rgb(243, 238, 238) solid;
+    border-radius: 10px;
+}
+.btn-1{
+    color: rgb(247, 8, 99);
+    background-color:rgb(247, 170, 200) ;
+    border: 1px rgb(247, 170, 200);
+    border-radius: 20px;
+    margin: 15px;
+}
+.btn-2{
+    color: rgb(8, 208, 235);
+    background-color:rgb(194, 248, 252) ;
+    border: 1px rgb(202, 237, 243);
+    border-radius: 20px;
+    margin: 15px;
+}
+.btn-3{
+    color: rgb(7, 175, 44);
+    background-color:rgb(144, 238, 164) ;
+    border: 1px rgb(182, 248, 188);
+    border-radius: 20px;
+    margin: 15px;
+}
+
+
+
+
+
+
