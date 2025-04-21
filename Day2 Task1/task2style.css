@@ -1,0 +1,72 @@
+body{
+    background: pink;
+}
+h1{
+    /* display: flex;
+    justify-content: center;
+    margin-top: 90px;
+     */
+     text-align: center;
+     margin-top: 90px;
+
+}
+.form-container{
+    /* display: flex;
+    justify-content: center; */
+    text-align: center;
+    background-color: white;
+    /* margin-top: 80px; */
+    margin-left: 80px;
+    margin-right: 80px;
+    padding-top: 5px;
+    padding-bottom: 30px;
+   
+    
+}
+h4{
+    margin-bottom: 25px;
+}
+label{
+    text-align: end;
+}
+.lbl3{
+    margin-left: 10px;
+}
+.number-label{
+    margin-right: 40px;
+}
+.select-label{
+     margin-right: 50px; 
+}
+.checkbox-label{
+    margin-right:50px;
+}
+.namebox{
+    margin-left: 30px;
+    margin-bottom: 20px;
+}
+.emailbox{
+    margin-left: 30px;
+    margin-bottom: 20px;
+}
+.agebox{
+    margin-left: 40px;
+    margin-bottom: 20px;
+}
+.numberbox{
+    margin-right: 35px;
+    margin-bottom: 20px;
+}
+.select-box{
+    margin-bottom: 20px;
+    margin-right: 180px;
+    color: grey;
+    padding-right: 55px;
+}
+/* .checkbox{
+    display: flex;
+    flex-direction: column;
+} */
+ .checkbox-container{
+    padding: 20px;
+ }
