@@ -1,0 +1,66 @@
+// Example for function
+
+function add(num1, num2){
+  let a = num1 + num2;
+  
+  return a;
+}
+add(2,2);
+
+function sub(num1, num2){
+  let b = num1 - num2;
+  
+  return b;
+}
+sub(4,2);
+function mul(num1, num2){
+  let c = num1 * num2;
+  
+  return c;
+}
+mul(3,2);
+function div(num1, num2){
+  let d = num1 / num2;
+  
+  return d;
+}
+div(4,2);
+// Example for anonymous function 
+let addition = function(num1,num2){
+  return num1+num2
+}
+addition(6,2)
+let subtraction = function(num1,num2){
+  return num1-num2
+}
+subtraction(3,1)
+let multiplication = function(num1,num2){
+  return num1*num2
+}
+multiplication(2,3)
+let division = function(num1,num2){
+  return num1/num2
+}
+division(8,4)
+// Example of arrow function
+let Add = (num1,num2) => num1+num2;
+let Sub = (num1,num2) => num1-num2;
+let Mul = (num1,num2) => num1*num2;
+let Div = (num1,num2) => num1/num2;
+Add(5,5);
+Sub(6,4);
+Mul(2,2);
+Div(6,3);
+// Example of IIFE function
+(function(num1,num2){
+  return num1+num2;
+}) (2,2);
+(function(num1,num2){
+  return num1-num2;
+}) (4,2);
+(function(num1,num2){
+  return num1*num2;
+}) (4,2);
+(function(num1,num2){
+  return num1/num2;
+}) (4,2);
